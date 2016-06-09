@@ -1,0 +1,19 @@
+{
+  "name": "botpayload",
+  "version": "1.0.0",
+  "description": "hello.js",
+  "main": "mrbear.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "user_name"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.4",
+    "slackbots": "^0.5.1",
+    "sqlite3": "^3.1.4"
+  }
+}
